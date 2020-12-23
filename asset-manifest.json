@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Eazykart/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Eazykart/static/js/main.c0b3d001.chunk.js",
+    "main.js.map": "/Eazykart/static/js/main.c0b3d001.chunk.js.map",
+    "runtime-main.js": "/Eazykart/static/js/runtime-main.d25c3156.js",
+    "runtime-main.js.map": "/Eazykart/static/js/runtime-main.d25c3156.js.map",
+    "static/js/2.681fb6fc.chunk.js": "/Eazykart/static/js/2.681fb6fc.chunk.js",
+    "static/js/2.681fb6fc.chunk.js.map": "/Eazykart/static/js/2.681fb6fc.chunk.js.map",
+    "static/js/3.17dea6b2.chunk.js": "/Eazykart/static/js/3.17dea6b2.chunk.js",
+    "static/js/3.17dea6b2.chunk.js.map": "/Eazykart/static/js/3.17dea6b2.chunk.js.map",
+    "index.html": "/Eazykart/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Eazykart/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.681fb6fc.chunk.js.LICENSE.txt": "/Eazykart/static/js/2.681fb6fc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Eazykart/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d25c3156.js",
+    "static/js/2.681fb6fc.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c0b3d001.chunk.js"
+  ]
+}
